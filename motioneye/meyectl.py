@@ -234,7 +234,7 @@ def print_usage_and_exit(code):
 def print_version_and_exit():
     import motioneye
 
-    sys.stderr.write('motionEye %s\n' % motioneye.VERSION)
+    sys.stderr.write('SmartCamera\n')
     sys.exit()
 
 
